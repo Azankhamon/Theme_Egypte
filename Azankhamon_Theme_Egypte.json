@@ -1,10 +1,10 @@
 [ 
     { 
         "author" : "Azteque", 
-        "name" : "Azankhamon Theme", 
+        "name" : "Theme Egyptien Azankhamon", 
         "version" : "1.0.0", 
         "dofusVersion" : "2.39", 
-        "description" : "Plongez dans l'univers de Saharach2 et de l'Egypte Antique ! Plus d'infos sur http://azteam-dofus.com", 
+        "description" : "Plongez dans l'univers de Saharach2 !", 
         "url" : "https://github.com/Azankhamon/Theme_Egypte/raw/master/Azankhamon2.zip", 
         "previewUrl" : "https://raw.githubusercontent.com/Azankhamon/Theme_Egypte/master/ThemePreview.jpg", 
         "creationDate" : "10/12/2016", 
