@@ -2,12 +2,12 @@
     { 
         "author" : "Azteque", 
         "name" : "Theme Egyptien Azankhamon", 
-        "version" : "1.2.2", 
-        "dofusVersion" : "2.39", 
+        "version" : "2.0.0", 
+        "dofusVersion" : "2.40", 
         "description" : "Toutes les infos sur http://www.azteam-dofus.com/Theme-Dofus.php !", 
-        "url" : "https://github.com/Azankhamon/Theme_Egypte/raw/master/Azankhamon%201.2.2.zip", 
+        "url" : "https://github.com/Azankhamon/Theme_Egypte/raw/master/Azankhamon%202.0.0.rar", 
         "previewUrl" : "https://raw.githubusercontent.com/Azankhamon/Theme_Egypte/master/ThemePreview.jpg", 
         "creationDate" : "10/12/2016", 
-        "modificationDate" : "16/12/2016" 
+        "modificationDate" : "28/02/2017" 
     } 
 ]
